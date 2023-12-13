@@ -1,5 +1,9 @@
 # Web_Scraping_google_scholar
-First Code
-#Scrapping the research article's title, author name, and link from Google Scholar and save it to a designated Excel file.
-Second Code
-#Automatically enter each link and scrape the abstract of the research article under that link, and save the abstract in a new Excel file.
+
+There are two stages
+
+Stage 1: running the abc.py will return the research article's title, author name, and urls from Google Scholar and save it to a designated Excel file.
+
+
+Stage 2: running dec.py will return the abstract of the research article under the corresponding link from stage 1, and save the abstract in a new Excel file.
+
